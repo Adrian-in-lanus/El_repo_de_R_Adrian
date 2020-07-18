@@ -3,3 +3,4 @@ numeros <-rnorm(500)
 
 # grafico
 hist(numeros)
+plot(numeros)
