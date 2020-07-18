@@ -6,6 +6,7 @@ numeros1 <-rnorm(500)
 # grafico
 hist(numeros1)
 plot(numeros2)
+plot(numeros1)
 
 
 
